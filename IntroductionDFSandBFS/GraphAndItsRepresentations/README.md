@@ -54,6 +54,14 @@ Adjacency Matrix of Graph
 [[-1, -1, 20, -1, 10, -1], [-1, -1, 30, -1, 40, -1], [20, 30, -1, -1, -1, -1], [-1, -1, -1, -1, 50, -1], [10, 40, -1, 50, -1, 60], [-1, -1, -1, -1, 60, -1]]
 ```
 
+     a     b     c     d     e     f  
+a  
+b  
+c  
+d  
+e  
+f  
+
 # Reference
 https://www.geeksforgeeks.org/graph-and-its-representations/  
 https://ide.geeksforgeeks.org/9je5j6jJ13
